@@ -1,4 +1,10 @@
-## Data table with Pagination and Sorting in Vanilla JavaScipt
+## Data table with Pagination and Sorting in Vanilla JavaScript
+
+---
+
+### github-pages URL
+
+- https://jiyaho.github.io/table_pagination_JS/
 
 ### 기능 설명
 
